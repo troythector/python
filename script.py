@@ -14,3 +14,6 @@ def greet(who_to_greet):
 
 r = requests.get("https://www.google.com")
 print(r.status_code)
+
+# Testing Git commit from VSCode
+
